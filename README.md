@@ -6,3 +6,4 @@
 <h3>4. Inshorts-clone-with-newsApi </h3>- https://github.com/KRISHNAPRASADEK/Inshorts-clone-React
 <h3>5. Dictionary Progressive Web App with Api and Dark Mode Toggle </h3>- https://github.com/KRISHNAPRASADEK/Dictionary-App-React
 <h3>6. Movies and TV Series Searching App in React JS and Material UI </h3>- https://github.com/KRISHNAPRASADEK/Movie-App-React
+<h3>7. Quiz App in React JS Project with 22 Categories using Material UI and Trivia API </h3>- https://github.com/KRISHNAPRASADEK/Quiz-App-React
